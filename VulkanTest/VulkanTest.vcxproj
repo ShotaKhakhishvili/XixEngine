@@ -18,6 +18,24 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SourceFiles\compile.bat" />
+    <None Include="SourceFiles\Shaders\simple_shader.frag" />
+    <None Include="SourceFiles\Shaders\simple_shader.frag.spv" />
+    <None Include="SourceFiles\Shaders\simple_shader.vert" />
+    <None Include="SourceFiles\Shaders\simple_shader.vert.spv" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SourceFiles\first_app.cpp" />
+    <ClCompile Include="SourceFiles\main.cpp" />
+    <ClCompile Include="SourceFiles\xe_pipeline.cpp" />
+    <ClCompile Include="SourceFiles\xe_window.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HeaderFiles\first_app.hpp" />
+    <ClInclude Include="HeaderFiles\xe_pipeline.hpp" />
+    <ClInclude Include="HeaderFiles\xe_window.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -104,7 +122,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\libraries\glm;D:\VulkanSDK\1.4.309.0\Include;C:\libraries\glfw-3.4.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\libraries\glm;D:\VulkanSDK\1.4.309.0\Include;C:\libraries\glfw-3.4.bin.WIN64\include;D:\VisualStudioProjects\VulkanTest\VulkanTest\HeaderFiles</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -122,7 +140,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\libraries\glm;D:\VulkanSDK\1.4.309.0\Include;C:\libraries\glfw-3.4.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\libraries\glm;D:\VulkanSDK\1.4.309.0\Include;C:\libraries\glfw-3.4.bin.WIN64\include;D:\VisualStudioProjects\VulkanTest\VulkanTest\HeaderFiles</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -134,22 +152,6 @@
       <AdditionalDependencies>vulkan-1.lib;glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="first_app.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="xe_pipeline.cpp" />
-    <ClCompile Include="xe_pipeline.hpp" />
-    <ClCompile Include="xe_window.cpp" />
-    <ClCompile Include="xe_window.hpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="first_app.hpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="compile.bat" />
-    <None Include="simple_shader.frag" />
-    <None Include="simple_shader.vert" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

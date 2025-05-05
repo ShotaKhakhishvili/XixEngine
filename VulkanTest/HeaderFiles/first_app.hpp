@@ -15,6 +15,6 @@ namespace XE
 
 	private:
 		XEWindow xeWindow{ WIDTH, HEIGHT, "First App Ahh Moment" };
-		XEPipeline xePipeline{"simple_shader.vert.spv", "simple_shader.frag.spv"};
+		XEPipeline xePipeline{"SourceFiles/Shaders/simple_shader.vert.spv", "SourceFiles/Shaders/simple_shader.frag.spv"};
 };
 }
