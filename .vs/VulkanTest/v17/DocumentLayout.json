@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudioProjects\\VulkanTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\first_app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_pipeline.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\xe_pipeline.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\first_app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\xe_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\xe_window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\xe_window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\compile.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\compile.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\simple_shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\simple_shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\simple_shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{369D72DE-BFC5-438F-B94A-8E0C9C75B265}|VulkanTest\\VulkanTest.vcxproj|solutionrelative:VulkanTest\\simple_shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "compile.bat",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\compile.bat",
+              "RelativeDocumentMoniker": "VulkanTest\\compile.bat",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\compile.bat",
+              "RelativeToolTip": "VulkanTest\\compile.bat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFjSURBVDhPY6AI/P//n7G1s\u002Bc/lEsWYILSRANbaysUmgHkgl\u002B/fpGFQXqxuuDkyZMMEydOBNOEAIYBixYvZhARl2QIiohi4BeTYJg\u002BcxZUBjtAMeDSpUsM1rb2DEoKcgwnDx9kUFOQZ7BxcQeL4wIoBuzfv5\u002BBjZOTYe2aNQyRkZEM69auYWBjY2VYv3UHw4otuxl2HzzK8OPHD6hqCEAxwNHRkeHrt28MQcEhDMuXL2cIANLP33xgUPdNYdB3dGN4JajGcPrSVahqCEAxQE9Pj\u002BHE4UMMV\u002B89ZNC1tGW4dOcBw7kzZxn0lYQZLj/5zGCoLMrw9NU7qGoIwAjEhLhYhm9vXjDsWLOC4fe7lwxm\u002BloMl\u002B69ZdCV4WW4cO8Ng4meNlQlBLBAaRRgbm4OxiAA8vOPU2cZLj34xqCnpswgIyYFFocBDBegAw4ODgYXO2uGcB9XBh01JTAfGVCcFwYaMDAAABi9qE6NKlarAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-05T11:22:05.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "xe_pipeline.cpp",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_pipeline.cpp",
+              "RelativeDocumentMoniker": "VulkanTest\\xe_pipeline.cpp",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_pipeline.cpp",
+              "RelativeToolTip": "VulkanTest\\xe_pipeline.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T19:24:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xe_pipeline.hpp",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_pipeline.hpp",
+              "RelativeDocumentMoniker": "VulkanTest\\xe_pipeline.hpp",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_pipeline.hpp",
+              "RelativeToolTip": "VulkanTest\\xe_pipeline.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T19:18:19.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "simple_shader.vert",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\simple_shader.vert",
+              "RelativeDocumentMoniker": "VulkanTest\\simple_shader.vert",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\simple_shader.vert",
+              "RelativeToolTip": "VulkanTest\\simple_shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-04T18:11:21.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "xe_window.cpp",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_window.cpp",
+              "RelativeDocumentMoniker": "VulkanTest\\xe_window.cpp",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_window.cpp",
+              "RelativeToolTip": "VulkanTest\\xe_window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T16:46:27.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "simple_shader.frag",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\simple_shader.frag",
+              "RelativeDocumentMoniker": "VulkanTest\\simple_shader.frag",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\simple_shader.frag",
+              "RelativeToolTip": "VulkanTest\\simple_shader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-04T18:55:23.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\main.cpp",
+              "RelativeDocumentMoniker": "VulkanTest\\main.cpp",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\main.cpp",
+              "RelativeToolTip": "VulkanTest\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T16:51:02.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "first_app.hpp",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\first_app.hpp",
+              "RelativeDocumentMoniker": "VulkanTest\\first_app.hpp",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\first_app.hpp",
+              "RelativeToolTip": "VulkanTest\\first_app.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T16:50:34.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "xe_window.hpp",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_window.hpp",
+              "RelativeDocumentMoniker": "VulkanTest\\xe_window.hpp",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\xe_window.hpp",
+              "RelativeToolTip": "VulkanTest\\xe_window.hpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-04T16:46:23.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "first_app.cpp",
+              "DocumentMoniker": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\first_app.cpp",
+              "RelativeDocumentMoniker": "VulkanTest\\first_app.cpp",
+              "ToolTip": "D:\\VisualStudioProjects\\VulkanTest\\VulkanTest\\first_app.cpp",
+              "RelativeToolTip": "VulkanTest\\first_app.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T16:11:03.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
