@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="SourceFiles\first_app.cpp">
+      <Filter>SourceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\main.cpp">
+      <Filter>SourceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\xe_device.cpp">
+      <Filter>SourceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\xe_pipeline.cpp">
+      <Filter>SourceFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="SourceFiles\xe_window.cpp">
+      <Filter>SourceFiles</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HeaderFiles\xe_window.hpp">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderFiles\xe_pipeline.hpp">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderFiles\xe_device.hpp">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="HeaderFiles\first_app.hpp">
+      <Filter>HeaderFiles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SourceFiles\Shaders\simple_shader.frag">
+      <Filter>SourceFiles\Shaders</Filter>
+    </None>
+    <None Include="SourceFiles\Shaders\simple_shader.frag.spv">
+      <Filter>SourceFiles\Shaders</Filter>
+    </None>
+    <None Include="SourceFiles\Shaders\simple_shader.vert">
+      <Filter>SourceFiles\Shaders</Filter>
+    </None>
+    <None Include="SourceFiles\Shaders\simple_shader.vert.spv">
+      <Filter>SourceFiles\Shaders</Filter>
+    </None>
+    <None Include="SourceFiles\compile.bat">
+      <Filter>SourceFiles</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="HeaderFiles">
+      <UniqueIdentifier>{0b7e04c7-83fc-4466-9d1c-5e8097472222}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SourceFiles">
+      <UniqueIdentifier>{c97071a9-5be0-4484-96cd-2b5dfd519272}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SourceFiles\Shaders">
+      <UniqueIdentifier>{f58e3e08-5251-445c-b458-f6ab0a239e91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
